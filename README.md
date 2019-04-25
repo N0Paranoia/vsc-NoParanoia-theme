@@ -6,6 +6,6 @@
 * For the source code you can check my github page here https://github.com/N0Paranoia/vsc-NoParanoia-theme
 
 ### Issues and requests
-* You can post you issues or change request here https://github.com/N0Paranoia/vsc-NoParanoia-theme/issues
+* You can post your issues or change request here https://github.com/N0Paranoia/vsc-NoParanoia-theme/issues
 
 **Enjoy!**
