@@ -2,7 +2,8 @@
     "name": "noparanoia",
     "displayName": "NoParanoia",
     "description": "NoParanoia color theme",
-    "version": "0.0.1",
+    "publisher": "NoParanoia",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.33.0"
     },
