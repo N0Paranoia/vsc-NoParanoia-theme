@@ -37,13 +37,13 @@ font-family: -apple-system,BlinkMacSystemFont,Segoe WPC,Segoe UI,HelveticaNeue-L
 font-size: 1em;
 }
 ```
-1. Open Settings (JSON) and add the following lines:
+1. press command+shift+P (MacOS) or Ctrl+shift+P (Windows/Linux) and type/select ">Preferences: Open Settings (JSON)" and paste the folowing lines in the settings file:
 ```javascript
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true,   
 "vscode_custom_css.imports": ["file:///[location of your styles.css]"],
 ```
-1. press command+shift+P and type/select ">Reload Custom CSS an JS"
+1. press command+shift+P (MacOS) or Ctrl+shift+P (Windows/Linux) and type/select ">Reload Custom CSS an JS"
 
 
 
