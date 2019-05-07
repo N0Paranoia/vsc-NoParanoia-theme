@@ -2,6 +2,7 @@
 ## NoParanoia theme for Visual Studio Code
 
 ![Theme example](./images/NoParanoiaScreenshot.png)
+<!-- ![Theme example](https://raw.githubusercontent.com/N0Paranoia/vsc-NoParanoia-theme/master/images/NoParanoiaScreenshot.png) -->
 
 ### Getting started
 * You can install the NoParanoia theme trough the Visual Studio Code marketplace.
