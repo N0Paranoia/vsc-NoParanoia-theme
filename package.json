@@ -18,5 +18,8 @@
                 "path": "./themes/NoParanoia-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.61.0"
     }
 }
