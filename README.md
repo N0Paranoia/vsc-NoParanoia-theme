@@ -10,9 +10,9 @@
 ### Issues and requests
 * You can post your issues or change request here https://github.com/N0Paranoia/vsc-NoParanoia-theme/issues
 
-### Multiple fonts setup (Operatot Mono alternative)
+### Multiple fonts setup (Operator Mono alternative)
 The fonts used in de screenshot are "Fira Code" and "Script12 BT".
-If you want to use the fonts like they are shown in the screenshot you can followthe guide below:
+If you want to use the fonts like they are shown in the screenshot you can follow the guide below:
 
 1. Download and install "Fira Code" and "Script12 BT".
 1. Install VSCode Extension: Custom CSS and JS Loader.
