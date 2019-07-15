@@ -1,9 +1,9 @@
 {
     "name": "noparanoia",
-    "displayName": "NoParanoia",
+    "displayName": "NoParanoia Theme",
     "description": "NoParanoia color theme",
     "publisher": "NoParanoia",
-    "version": "1.0.8",
+    "version": "1.0.81",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -21,6 +21,8 @@
         ]
     },
     "dependencies": {
-        "vsce": "^1.61.0"
+        "braces": "^3.0.2",
+        "lodash": "^4.17.14",
+        "vsce": "^1.65.0"
     }
 }
